@@ -48,7 +48,8 @@ greetings(name: "Jerry")
  */
 // write your code here
 
-
+var name1 = "Mike"
+greetings(name: name1)
 
 
 /*: question5

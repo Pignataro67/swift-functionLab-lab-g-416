@@ -57,7 +57,13 @@ greetings(name: name1)
  */
 // write your code here
 
-
+func declareVar(value: String) {
+    var temp = value
+    print("The value is \(value)!")
+}// write your code here
+declareVar(value: "string")
+declareVar(value: "tree")
+declareVar(value: "dog")
 
 
 /*:
